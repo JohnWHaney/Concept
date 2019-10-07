@@ -1,5 +1,4 @@
-// package com.siemens.polarion.ws.example.projectfinder;
- 
+// package com.siemens.polarion.ws.example.projectfinder; 
   //
  // Found on Slack - Andy Holton post 
 //
